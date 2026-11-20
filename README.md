@@ -18,7 +18,7 @@
 
 ## Apuntes y notas
 
-- [Link](apunteteorico.pdf)
+- [apunteteorico.pdf](apunteteorico.pdf)
 
 ## Página original
 
